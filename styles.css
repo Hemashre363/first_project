@@ -1,0 +1,7 @@
+.item img {
+    width: 200px; /* Fixed width */
+    height: 200px; /* Fixed height */
+    object-fit: contain; /* Ensures the entire image fits inside the container */
+  }
+  
+  
